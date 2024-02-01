@@ -4,3 +4,10 @@ I found a girl my parents love
 01/25: Second day of unlimitted Git's studies!
 
 01/26: Another wonderfull day!!!
+
+01/30: Studing undo! One more detail!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+01/30: new lesson!!!
+
+02/01: practice gir revert + sha1
