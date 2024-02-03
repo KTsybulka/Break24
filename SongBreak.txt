@@ -12,4 +12,10 @@ I found a girl my parents love
 
 02/01: practice gir revert + sha1
 
+<<<<<<< HEAD
 02/03: try from local rep
+=======
+02/02: try to sinhronisw remote repository with lockal
+
+02/03: try to sinhronice second time!!!
+>>>>>>> 329e77dcb35be5be3f163618226b94588cedaf80
