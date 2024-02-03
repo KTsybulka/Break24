@@ -11,3 +11,5 @@ I found a girl my parents love
 01/30: new lesson!!!
 
 02/01: practice gir revert + sha1
+
+02/03: try from local rep
